@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/28547764/README.md)
-# Triton 低比特量化 Linear Benchmark
+﻿# Triton 低比特量化 Linear Benchmark
 
 ## 项目简介
 

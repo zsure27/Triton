@@ -1,0 +1,3 @@
+"""Triton Low-bit Quantization Benchmark package."""
+
+__version__ = "0.1.0"
